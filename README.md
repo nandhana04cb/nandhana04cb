@@ -62,6 +62,13 @@
 > Full-stack canteen management system for pre-booking meals and due tracking.  
 > 🔧 Tools: HTML, CSS, JavaScript, Flask, MySQL
 
+#### 🔹 [SearXNG Custom Search Engine](https://github.com/nandhana04cb/searxng)
+> Self-hosted privacy-focused meta-search engine based on SearXNG with customized UI and result filters.  
+> 🔧 Tools: Python, Docker, HTML, JavaScript  
+
+#### 🔹 [Smart Irrigation System](https://github.com/nandhana04cb/smart-irrigation)
+> IoT-based system that automates watering based on soil moisture levels. Helps conserve water and improve efficiency.  
+> 🔧 Tools:   C, Python ,ML Algorithms
 ---
 
 ###  Achievements
