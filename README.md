@@ -6,7 +6,7 @@
   <a href="mailto:nandhana2004babu@gmail.com">📧 Mail</a> •
   <a href="https://github.com/nandhana04cb">💻 GitHub</a> •
   <a href="https://linkedin.com/in/nandhana-cb">🔗 LinkedIn</a> •
-  <a href="https://leetcode.com/nandhana04cb/">🧠 LeetCode</a>
+  <a href="https://leetcode.com/u/cbnandhana/">🧠 LeetCode</a>
 </p>
 
 ---
